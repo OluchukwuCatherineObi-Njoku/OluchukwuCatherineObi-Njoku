@@ -74,9 +74,9 @@ Visual Studio: <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/
 <br>
 <h2 align="center">📫 Contact Me</h2>
 
-<p align="center">
+<!--<p align="center">
   My personal website: <a href="https://www.almnayer.com">www.almnayer.com</a>
-</p>
+</p>-->
 
 
 
