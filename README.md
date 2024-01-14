@@ -10,7 +10,8 @@
 
 <p align="center">  <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"></code>  <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>  <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"></code>  <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"></code>  <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></code>  <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code>  <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code> <br><br>
-<code><img height="20" src="https://pics.freeicons.io/uploads/icons/png/8576429001685057471-512.png"></code>
+<code><img height="20" src="https://cdn-icons-png.flaticon.com/128/2772/2772165.png"></code>
+<code><img height="20" src="https://cdn.icon-icons.com/icons2/2367/PNG/512/terminal_shell_icon_143501.png"></code>
   
   </p>
 <br>
@@ -29,11 +30,15 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React logo">
   <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js logo">
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap logo" alt="Bootstrap logo">
 </p>
 <br>
 <h2 align="center">🎨 Other Technologies</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=qt&logoColor=white" alt="Qt logo">
+  <img src="https://img.shields.io/badge/-Dash-4479A1?style=flat-square&logo=dash&logoColor=white" alt="Dash logo">
+  <img src="https://img.shields.io/badge/-Numpy-013243?style=flat-square&logo=numpy&logoColor=white" alt="Numpy logo">
+  <img src="https://img.shields.io/badge/-Matplotlib-013220?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib logo">
+  <img src="https://img.shields.io/badge/-Turtle-4B8BBE?style=flat-square&logo=turtle&logoColor=white" alt="Turtle logo">
 </p>
 <br>
 <h2 align="center">🚀 Project Management & Methodologies</h2>
@@ -71,8 +76,20 @@ Visual Studio Code: <code><img height="20" src="https://cdn.worldvectorlogo.com/
 <p align="center">
 Visual Studio: <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"></code>
 </p>
+<p align="center">
+Coverage.py: <code><img height="20" src="https://coverage.readthedocs.io/en/latest/_images/Tidelift_Logos_RGB_Tidelift_Shorthand_On-White.png"></code>
+</p>
+<p align="center">
+RobotC: <code><img height="20" src="https://chrisandjimcim.com/wp-content/uploads/2016/06/robotClogo.png"></code>
+</p>
+<p align="center">
+Epson RC+: <code><img height="20" src="https://mma.prnewswire.com/media/449071/EPSON_Logo.jpg?p=facebook"></code>
+</p>
 <br>
 <h2 align="center">📫 Contact Me</h2>
+<p>
+  Email: oobi-njoku@myseneca.ca <br>
+</p>
 
 <!--<p align="center">
   My personal website: <a href="https://www.almnayer.com">www.almnayer.com</a>
