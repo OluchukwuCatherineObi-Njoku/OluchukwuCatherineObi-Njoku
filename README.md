@@ -87,7 +87,7 @@ Epson RC+: <code><img height="20" src="https://mma.prnewswire.com/media/449071/E
 </p>
 <br>
 <h2 align="center">📫 Contact Me</h2>
-<p>
+<p align="center">
   Email: oobi-njoku@myseneca.ca <br>
 </p>
 
